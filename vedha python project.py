@@ -250,7 +250,7 @@ def main():
 
         else:
             print("Invalid choice")
-
+#student academics
 
 # -------- RUN --------
 if __name__ == "__main__":
